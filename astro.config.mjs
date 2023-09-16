@@ -5,9 +5,12 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "The Witchlight",
+      title: "D&D Witchlight Adventure",
       social: {
         github: "https://github.com/Spronghi/dnd-witchlight-campaign",
+      },
+      logo: {
+        src: "./src/assets/logo.png",
       },
       sidebar: [
         { label: "Sessions", autogenerate: { directory: "sessions" } },

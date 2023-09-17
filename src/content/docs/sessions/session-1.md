@@ -8,11 +8,9 @@ At the entrance there will be [Polso](/places/the-belly-buster#polso) waiting to
 
 `Polso and tavern description`
 
-He will task them from [Alcide](/npc/alcide) with transporting wood from the village to the lake as a protection for the other workers.
+During the conversation [Esika](/npc/esika) will enter the tavern and [Polso](/places/the-belly-buster#polso) will tell the group that she will join them during the trip. He will task them from [Alcide](/npc/alcide) with transporting wood from the village to the lake as a protection for the other workers.
 
-During the conversation [Esika](/npc/esika) will enter the tavern and [Polso](/places/the-belly-buster#polso) will tell the group that she will join them during the trip.
-
-If the party approach her [Esika](/npc/esika), she will tell them regarding:
+If the party approach [Esika](/npc/esika), she will tell them regarding:
 
 - The legend around ancient ruins in the lake
 - Her reason to take the job (only if really pushed she will tell that she wants to steal the ancient relic inside the lake) `DC 18 INT` to understand she is laying
@@ -22,6 +20,8 @@ If the party approach her [Esika](/npc/esika), she will tell them regarding:
 ## Travel to the lake
 
 The driver of the caravan is [Sittas](/npc/workers#sittas).
+
+`TODO add infos for the trip`
 
 While getting closer to the tower, the characters notice that the atmosphere is getting creepier and creepier. Following the path becomes more difficult since a thick fog comes out of the forest that surrounds the path closely. At some point they get attacked by spiders and other creatures.
 

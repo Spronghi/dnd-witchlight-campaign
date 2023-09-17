@@ -12,8 +12,6 @@ The lake is around 2 weeks traveling from Blore. So it is necessary that a carav
 
 ## Known infos
 
-[Blore](/places/blore) is a small city known because it's one of the places where The Witchlight Carnival stops for two days every eight years. Villagers are mostly humans and the influence of the carnival is barely visible in terms of magic.
-
-The Witchlight Carnival comes from the Feywild plane and is knows in the material plane to be one of the funniest carnival ever. It is a whimsical fair of dizzying sights and wondrous attractions that visits numerous planets across the material plane once every eight years.
+Blore is a small village that sustains itself mostly from agriculture and breeding. Villagers are mostly humans and is a place where travelers are well seen, especially if they spend money into taverns or buy foods from villagers.
 
 `Ask me more if needed. More info will be added to this page as needed.`

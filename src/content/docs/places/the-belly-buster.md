@@ -2,7 +2,11 @@
 title: The Belly Buster
 ---
 
-The tavern looks pretty good from the outside, and is made from wood. It seems recently renovated and there are around 20 people inside. The owner of the tavern is called Polso and is a friendly guy who seems quite happy about welcoming the party.
+The tavern looks pretty good from the outside, and is made from wood. It seems recently renovated and there are around 20 people inside.
+
+## Polso
+
+Polso is owner of the tavern and is a friendly guy who seems quite happy about welcoming the party. He has a quite visible belly with a big mustache.
 
 He will mostly talk about:
 

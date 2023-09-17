@@ -1,5 +1,6 @@
 ---
 title: Ariosa
+tableOfContents: false
 ---
 
 `12k habitants`

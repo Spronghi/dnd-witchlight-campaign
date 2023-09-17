@@ -6,7 +6,9 @@ The campaign setup is `mid magic`. There are people in villages that have never 
 
 The most common races are humans, dwarves, orcs and halflings.
 
-The adventure take please because (for one reason or another) the characters decide to join a group of workers that need to drain a lake near a [tower](/places/tower) owned by a noble named [Alcide](/npc/alcide). The caravan will start from a tavern called [The Belly Buster](/places/the-belly-buster) placed in [Blore](/places/blore) the `18th of September`, the group is supposed to meet there the night before.
+The adventure take please because (for one reason or another) the characters decide to join a group of workers that need to drain a lake near a isolated [tower](/places/tower) owned by a noble named [Alcide](/npc/alcide). The caravan will start from a tavern called [The Belly Buster](/places/the-belly-buster) placed in [Blore](/places/blore) the `18th of September`, the group is supposed to meet there the night before.
+
+The lake is around 2 weeks traveling from Blore. So it is necessary that a caravan bring food and materials to the workers, this caravan has to be protected from mercenaries or villains who want to steal the materials, so the group will also be tasked to defend the caravan during the travel.
 
 ## Known infos
 

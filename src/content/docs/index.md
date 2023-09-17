@@ -8,7 +8,7 @@ hero:
     alt: Dungeons and Dragons logo
     file: ../../assets/logo.png
   actions:
-    - text: Main Story
+    - text: To the story
       link: /main-story/
       icon: right-arrow
       variant: primary

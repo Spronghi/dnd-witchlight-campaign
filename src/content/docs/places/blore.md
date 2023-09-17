@@ -5,7 +5,7 @@ tableOfContents: false
 
 `600 people` `mostly humans`
 
-Blore is a small village known mostly because it is one of the places visited by the `Witchlight Carnival` for two days every `8 years` (it will take place around the `25th of September`). The village sustains itself mostly from agriculture and breeding, but, during the carnival, a lot of tents are constructed because of the visitors. The population usually triple during the carnival, and you can find tents for around 10gp for two nights. The influence of the carnival is barely visible in terms of magic.
+Blore is a small village known mostly because it is one of the places visited by the `Witchlight Carnival` for two days every `8 years` (it will take place around the `25th of September`). The village sustains itself mostly from agriculture and keeping, but, during the carnival, a lot of tents are constructed because of the visitors. The population usually triple during the carnival, and you can find tents for around 10gp for two nights. The influence of the carnival is barely visible in terms of magic.
 
 ## Special infos
 

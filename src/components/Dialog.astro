@@ -1,0 +1,47 @@
+---
+interface Props {
+  icon?: string;
+  title: string;
+}
+---
+
+<article class="dialog sl-flex">
+  <div class="body"><slot /></div>
+</article>
+
+<style>
+  .dialog {
+    --sl-dialog-border: var(--sl-color-purple);
+    --sl-dialog-bg: var(--sl-color-purple-low);
+    border: 1px solid var(--sl-color-gray-5);
+    background-color: var(--sl-color-black);
+    padding: clamp(1rem, calc(0.125rem + 3vw), 1.5rem);
+    flex-direction: column;
+    gap: clamp(0.5rem, calc(0.125rem + 1vw), 1rem);
+  }
+  .dialog:nth-child(4n + 1) {
+    --sl-dialog-border: var(--sl-color-orange);
+    --sl-dialog-bg: var(--sl-color-orange-low);
+  }
+  .dialog:nth-child(4n + 3) {
+    --sl-dialog-border: var(--sl-color-green);
+    --sl-dialog-bg: var(--sl-color-green-low);
+  }
+  .dialog:nth-child(4n + 4) {
+    --sl-dialog-border: var(--sl-color-red);
+    --sl-dialog-bg: var(--sl-color-red-low);
+  }
+  .dialog:nth-child(4n + 5) {
+    --sl-dialog-border: var(--sl-color-blue);
+    --sl-dialog-bg: var(--sl-color-blue-low);
+  }
+
+  .dialog .body {
+    margin: 0;
+    font-size: clamp(
+      var(--sl-text-sm),
+      calc(0.5rem + 1vw),
+      var(--sl-text-body)
+    );
+  }
+</style>

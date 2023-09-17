@@ -2,6 +2,10 @@
 title: Workers
 ---
 
+## Sittas
+
+Sittas is the driver of the caravan. He will tell the group about his family and all the different adventure he has lived during his career.
+
 ## Kalim
 
 Kalim is a friendly guy, usually helpful with other workers. He is there because he has a family and he needs money to build a house. He will notice something weird the second day and will tell the group if they socialized enough with him.

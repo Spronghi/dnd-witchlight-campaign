@@ -29,7 +29,7 @@ On the morning of departure, the party will meet:
 
 :::tip[Horse Speed]
 A typical overland travel speed for a caravan with two horses might be around 24 miles per day on well-maintained roads or paths.
-::
+:::
 
 At some point they get attacked by spiders and other creatures. `TODO decide the fight`
 

@@ -12,4 +12,4 @@ The people of reference you have for the mission are [Alcide](/npc/alcide) and [
 
 ## Known infos
 
-Blore is a small village that sustains itself mostly from agriculture and keeping. Villagers are mostly humans and is a place where travelers are well seen, especially if they spend money into taverns or buy foods from villagers.
+Blore is a small village that sustains itself mostly from agriculture and subsistence farming. Villagers are mostly humans and is a place where travelers are well seen, especially if they spend money into taverns or buy foods from villagers.

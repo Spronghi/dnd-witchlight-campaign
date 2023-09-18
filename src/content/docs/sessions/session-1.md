@@ -33,6 +33,8 @@ A typical overland travel speed for a caravan with two horses might be around 24
 
 At some point they get attacked by spiders and other creatures. `TODO decide the fight`
 
+`TODO during the travel, someone will get sick and the party will have to go to search for a healer in the forest`
+
 While getting very close to the tower, the characters notice that the atmosphere is getting creepier and creepier. Following the path becomes more difficult since a thick fog comes out of the forest that surrounds the path closely.
 
 ## The lake and the tower

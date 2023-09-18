@@ -2,13 +2,13 @@
 title: Session 1
 ---
 
-It is Sunday, `17th of September`, the characters were told to meet in a tavern named [The Belly Buster](/places/the-belly-buster) in [Blore](/places/blore).
+It is Sunday, `17th of September`, the characters were told to meet in a tavern named [The Belly Buster](/places/blore/#the-belly-buster) in [Blore](/places/blore).
 
-At the entrance there will be [Polso](/places/the-belly-buster#polso) waiting to welcome the group inside the tavern.
+At the entrance there will be [Polso](/places/blore/#the-belly-buster#polso) waiting to welcome the group inside the tavern.
 
 `Polso and tavern description`
 
-During the conversation [Esika](/npc/esika) will enter the tavern and [Polso](/places/the-belly-buster#polso) will tell the group that she will join them during the trip. He will task them from [Alcide](/npc/alcide) with transporting wood from the village to the lake as a protection for the other workers.
+During the conversation [Esika](/npc/esika) will enter the tavern and [Polso](/places/blore/#the-belly-buster#polso) will tell the group that she will join them during the trip. He will task them from [Alcide](/npc/alcide) with transporting wood from the village to the lake as a protection for the other workers.
 
 If the party approach [Esika](/npc/esika), she will tell them regarding:
 

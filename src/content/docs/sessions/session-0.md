@@ -14,6 +14,4 @@ The lake is around 2 weeks traveling from Blore. So it is necessary that a carav
 
 Blore is a small village that sustains itself mostly from agriculture and keeping. Villagers are mostly humans and is a place where travelers are well seen, especially if they spend money into taverns or buy foods from villagers.
 
-The tower is `two weeks` of travel from [Blore](/places/blore). The caravan will mostly transport wood, stone, metal, and other materials for building channels, pipes, and pumps. Some of the materials were traded with local suppliers by [Toda](/places/blore#Toda).
-
-`Ask me more if needed. More info will be added to this page as needed.`
+The people of reference you have for the mission are [Alcide](/npc/alcide) and [Toda](/places/blore#toda). The tower is `two weeks` of travel from [Blore](/places/blore). The caravan will mostly transport food, wine, wood, stone, metal, and other materials for building channels, pipes, and pumps. Some of the materials were traded with local suppliers by [Toda](/places/blore#toda), so it is very important to protect the caravan, since these materials are not easy to find.

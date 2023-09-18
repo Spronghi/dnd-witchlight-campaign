@@ -9,4 +9,4 @@ When all the workers are grouped together, they start to feel more and more tire
 
 It is when the characters notice other workers disappearing that they start to get scared, but [Alcide](/npc/alcide) doesn’t seem interested, he pushes other workers to keep working without investigating further. At some point the characters will understand that the noble is involved with the disappearances and will decide to kill [Alcide](/npc/alcide), to run away or to fight the fairies.
 
-After that, we'll decide if it's the case to go for a full campaign or not.
+`After that, we'll decide if it's the case to go for a full campaign or not.`

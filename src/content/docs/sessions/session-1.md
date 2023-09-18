@@ -19,13 +19,21 @@ If the party approach [Esika](/npc/esika), she will tell them regarding:
 
 ## Travel to the lake
 
-The driver of the caravan is [Sittas](/npc/workers#sittas).
+On the morning of departure, the party will meet:
 
-`TODO add infos for the trip`
+- [Sittas](/npc/workers#sittas): the driver of the caravan
+- [Toda](/npc/workers#toda): the merchant of the village
+- [Kalim](/npc/workers#kalim), [Foron](/npc/workers#foron) and [Ketra](/npc/workers#ketra): some workers who will join the group
 
-While getting closer to the tower, the characters notice that the atmosphere is getting creepier and creepier. Following the path becomes more difficult since a thick fog comes out of the forest that surrounds the path closely. At some point they get attacked by spiders and other creatures.
+[Sittas](/npc/workers#sittas) will inform the group that the [tower](/places/tower) is `~300 miles` away from [Blore](/places/blore). Since it was decided to bring two caravans, he asks one of the characters to also drive a caravan him behind him. Every caravan has two young horses, but another horse will be brought with them for safety reason.
 
-`TODO decide the fight`
+:::tip[Horse Speed]
+A typical overland travel speed for a caravan with two horses might be around 24 miles per day on well-maintained roads or paths.
+::
+
+At some point they get attacked by spiders and other creatures. `TODO decide the fight`
+
+While getting very close to the tower, the characters notice that the atmosphere is getting creepier and creepier. Following the path becomes more difficult since a thick fog comes out of the forest that surrounds the path closely.
 
 ## The lake and the tower
 

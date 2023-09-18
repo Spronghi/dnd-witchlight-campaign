@@ -13,7 +13,7 @@ export default defineConfig({
         src: "./src/assets/logo.png",
       },
       sidebar: [
-        { label: "Main Story", link: "/main-story" },
+        { label: "Home", link: "/" },
         { label: "Sessions", autogenerate: { directory: "sessions" } },
         { label: "NPCs", autogenerate: { directory: "npc" } },
         { label: "Places", autogenerate: { directory: "places" } },

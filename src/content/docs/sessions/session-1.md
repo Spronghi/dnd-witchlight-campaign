@@ -31,7 +31,7 @@ While getting closer to the tower, the characters notice that the atmosphere is 
 
 The group arrives at [the tower](/places/tower) around `8pm`.
 
-They find almost 35 [workers](/npc/workers) having lunch together, that’s where [Alcide](/npc/alcide) approaches the group asking them to rest because the next day, the characters will join the other [workers](/npc/workers) to drain the lake. Seems like the other [workers](/npc/workers) started to work one day ago, most of the people are there because of the money, and don’t seem to be too much interested in having conversations.
+They find almost 35 [workers](/npc/workers) having lunch together, that’s where [Alcide](/npc/alcide) approaches the group asking them to rest because the next day, the characters will join the other [workers](/npc/workers) to [drain the lake](/procedures/drain-a-lake). Seems like the other [workers](/npc/workers) started to work one day ago, most of the people are there because of the money, and don’t seem to be too much interested in having conversations.
 
 ## First morning in the camp
 

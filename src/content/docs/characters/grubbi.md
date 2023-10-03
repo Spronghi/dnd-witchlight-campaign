@@ -18,3 +18,7 @@ title: Grubbi Sparks
 ## Background
 
 `Vive pre strada da solo come un cane`
+
+## To do
+
+Provide a city where the character is coming from

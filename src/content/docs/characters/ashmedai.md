@@ -20,3 +20,7 @@ title: Ashmedai Ben Melech
 `Charlatan`
 
 It comes from a bard college. Vuole avere piu' conoscenza di quelle che ha e ricercare conoscenze in giro per il mondo.
+
+## To do
+
+Create a setup and a city for a bard school

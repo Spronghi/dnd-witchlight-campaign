@@ -4,8 +4,10 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
+    "dev:players": "MODE=players astro dev",
     "start": "astro dev",
     "build": "astro build",
+    "build:players": "sh ./scripts/build_players.sh",
     "preview": "astro preview",
     "astro": "astro",
     "clean": "node ./scripts/remove-links.js"

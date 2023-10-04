@@ -1,22 +1,30 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
+const sidebar = [
+  { label: "Home", link: "/" },
+  { label: "Sessions", autogenerate: { directory: "sessions" } },
+  { label: "Characters", autogenerate: { directory: "characters" } },
+  { label: "NPCs", autogenerate: { directory: "npc" } },
+  { label: "Places", autogenerate: { directory: "places" } },
+  { label: "Procedures", autogenerate: { directory: "procedures" } },
+  { label: "For Players", autogenerate: { directory: "for-players" } },
+  { label: "Resources", link: "/resources" },
+].filter((s) => {
+  if (process.env.MODE === "players" && s.label === "For Players") {
+    return false;
+  }
+
+  return true;
+});
+
 export default defineConfig({
   integrations: [
     starlight({
       title: "DM Witchlight Adventure",
       social: { github: "https://github.com/Spronghi/dnd-witchlight-campaign" },
       logo: { src: "./src/assets/logo.png" },
-      sidebar: [
-        { label: "Home", link: "/" },
-        { label: "Sessions", autogenerate: { directory: "sessions" } },
-        { label: "Characters", autogenerate: { directory: "characters" } },
-        { label: "NPCs", autogenerate: { directory: "npc" } },
-        { label: "Places", autogenerate: { directory: "places" } },
-        { label: "Procedures", autogenerate: { directory: "procedures" } },
-        { label: "For Players", autogenerate: { directory: "for-players" } },
-        { label: "Resources", link: "/resources" },
-      ],
+      sidebar,
     }),
   ],
 });

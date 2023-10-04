@@ -21,7 +21,7 @@ const sidebar = [
 export default defineConfig({
   integrations: [
     starlight({
-      title: "DM Witchlight Adventure",
+      title: "Witchlight Adventure",
       social: { github: "https://github.com/Spronghi/dnd-witchlight-campaign" },
       logo: { src: "./src/assets/logo.png" },
       sidebar,

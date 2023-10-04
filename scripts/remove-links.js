@@ -1,10 +1,8 @@
 import fs from "node:fs";
 import { execSync } from "node:child_process";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "url";
+import { join } from "node:path";
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const contentFolder = "./temp";
+const contentFolder = "./no-links";
 
 const clearFromLink = (path) => {
   if (!path.endsWith(".md")) {
@@ -13,7 +11,9 @@ const clearFromLink = (path) => {
 
   const newPath = path.replace("src", contentFolder);
   const content = fs.readFileSync(path).toString();
-  const cleared = content.replaceAll("[", "").replaceAll(/\].*\)/g, "");
+  const cleared = content
+    .replaceAll(/(?<!(\:\:\:.*))\[/g, "")
+    .replaceAll(/\].*\)/g, "");
 
   const splitted = newPath.split("/");
 
@@ -21,7 +21,6 @@ const clearFromLink = (path) => {
   const dirToCreate = newPath.replace(filename, "");
   execSync(`mkdir -p ${dirToCreate}`).toString().trim();
 
-  console.log({ contentFolder, dirToCreate });
   fs.writeFileSync(newPath, cleared);
 };
 

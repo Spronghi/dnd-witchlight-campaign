@@ -17,8 +17,4 @@ title: Grubbi Sparks
 
 ## Background
 
-`Vive pre strada da solo come un cane`
-
-## TODO
-
-Provide a city where the character is coming from
+`TODO add background`

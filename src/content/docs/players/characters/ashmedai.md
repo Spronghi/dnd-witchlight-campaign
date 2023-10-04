@@ -17,10 +17,4 @@ title: Ashmedai Ben Melech
 
 ## Background
 
-`Charlatan`
-
-It comes from a bard college. Vuole avere piu' conoscenza di quelle che ha e ricercare conoscenze in giro per il mondo.
-
-## TODO
-
-Create a setup and a city for a bard school
+`TODO add background`

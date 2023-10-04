@@ -8,8 +8,8 @@ const sidebar = [
   { label: "NPCs", autogenerate: { directory: "npc" } },
   { label: "Places", autogenerate: { directory: "places" } },
   { label: "Procedures", autogenerate: { directory: "procedures" } },
-  { label: "For Players", autogenerate: { directory: "for-players" } },
   { label: "Resources", link: "/resources" },
+  { label: "Players", collapsed: true, autogenerate: { directory: "players" } },
 ].filter((s) => {
   if (process.env.MODE === "players" && s.label === "For Players") {
     return false;

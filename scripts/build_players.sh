@@ -16,3 +16,5 @@ rm -rf ./src/content/docs/*
 mv ./temp/* ./src/content/docs
 
 MODE=players npx astro build
+
+git restore .

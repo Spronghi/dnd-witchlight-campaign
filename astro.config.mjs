@@ -14,6 +14,7 @@ export default defineConfig({
         { label: "NPCs", autogenerate: { directory: "npc" } },
         { label: "Places", autogenerate: { directory: "places" } },
         { label: "Procedures", autogenerate: { directory: "procedures" } },
+        { label: "For Players", autogenerate: { directory: "for-players" } },
         { label: "Resources", link: "/resources" },
       ],
     }),

@@ -33,7 +33,6 @@ export default defineConfig({
       sidebar,
       head: [
         {
-          // <meta property="og:image" content="https://kvkirthy.github.io/code-samples/assets/dino.png">
           tag: 'meta',
           attrs: {
             property: "og:image",

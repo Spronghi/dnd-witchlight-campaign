@@ -1,6 +1,7 @@
 ---
 title: Tower
+description: Tower owned by Alcide, destination of the caravan that the characters will protect
 tableOfContents: false
 ---
 
-You don't know anything about the tower yet
+Tower owned by [Alcide](/players/npc/alcide), destination of the caravan that the characters will protect.

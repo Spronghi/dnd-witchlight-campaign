@@ -1,5 +1,6 @@
 ---
 title: Blore
+description: Small village where the adventure begins
 ---
 
 `600 people` `Mostly humans`

@@ -1,5 +1,6 @@
 ---
 title: Phera
+description: One of the most popular city in the Alcera continent.
 ---
 
 `20k people` `Mostly halflings, humans, orcs and dwarfs`

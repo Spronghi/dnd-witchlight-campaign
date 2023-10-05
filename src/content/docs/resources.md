@@ -1,5 +1,6 @@
 ---
 title: Resources
+description: Useful resources for the DM and the players
 ---
 
 | Link                                                                          | Description                     |

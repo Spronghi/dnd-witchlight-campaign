@@ -1,5 +1,6 @@
 ---
 title: Session 1
+description: Notes and description of the first session of the adventure
 ---
 
 It is Sunday, `17th of September`, the characters were told to meet in a tavern named [The Belly Buster](/places/blore/#the-belly-buster) in [Blore](/places/blore).

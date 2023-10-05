@@ -1,5 +1,6 @@
 ---
 title: How to drain a lake
+description: How to drain a lake, step by step!
 ---
 
 Designing and constructing a drainage system to dry up a lake in is a complex engineering endeavor. Here's a more detailed breakdown of how you can pursue this option:

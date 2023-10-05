@@ -1,5 +1,6 @@
 ---
 title: Alcide
+description: Noble from Blore, he asked the characters to protect the caravan to the tower
 ---
 
 `Class: Warlock 3` `Race: Variant Human` `Alignment: Chaotic Evil`

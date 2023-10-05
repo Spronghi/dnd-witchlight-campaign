@@ -1,5 +1,6 @@
 ---
 title: Adventure Setup
+description: Setup description for the adventure
 ---
 
 The campaign setup is `mid magic`. There are people in villages that have never seen magic (or magical beasts) in their entire life, while there are cities who use the magic for different scopes and works in general.

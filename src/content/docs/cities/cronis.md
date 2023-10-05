@@ -1,5 +1,6 @@
 ---
 title: Cronis
+description: One of the most popular city in the Alcera continent.
 ---
 
 `150k people` `Mostly humans, elves and half-elves` `Main religion: Boccob`

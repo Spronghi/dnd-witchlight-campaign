@@ -1,5 +1,6 @@
 ---
 title: Ashmedai Ben Melech
+description: One of the characters that will play the adventure.
 ---
 
 `Class: Bard 1` `Race: Tiefling` `Alignment: Chaotic Good` `Speed: 9 meters` `8 HP`

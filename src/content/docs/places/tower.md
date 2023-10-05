@@ -1,5 +1,6 @@
 ---
 title: Tower in the lake
+description: Tower owned by Alcide, destination of the caravan that the characters will protect
 tableOfContents: false
 ---
 

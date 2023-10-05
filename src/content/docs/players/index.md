@@ -1,5 +1,6 @@
 ---
 title: Witchlight Adventure
+description: A cool D&D adventure with 3 characters and a DM
 tableOfContents: false
 ---
 

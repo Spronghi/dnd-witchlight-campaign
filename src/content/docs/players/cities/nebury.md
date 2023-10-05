@@ -1,5 +1,6 @@
 ---
 title: Nebury
+description: One of the most popular city in the Alcera continent.
 ---
 
 `420k people` `Mostly humans` `Popular religions: Heironeus, Pelor`

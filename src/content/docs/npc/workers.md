@@ -1,5 +1,6 @@
 ---
 title: Workers
+description: List of NPC that the characters will meet while traveling with the caravan.
 ---
 
 ## Sittas

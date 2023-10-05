@@ -1,5 +1,6 @@
 ---
 title: Grubbi Sparks
+description: One of the characters that will play the adventure.
 ---
 
 `Class: Monk 1` `Race: Human` `Alignment: Neutral Good` `10 HP`

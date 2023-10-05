@@ -1,9 +1,16 @@
 ---
 title: Cronis
 description: One of the most popular city in the Alcera continent.
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: /images/cronis.jpg
 ---
 
 `150k people` `Mostly humans, elves and half-elves` `Main religion: Boccob`
+
+![Cronis](/images/cronis.jpg)
 
 `Cronis` is for sure not the biggest city in `Alcera`, but is the most evolved in terms of technologies. It is not a surprise to see workers that elevate huge bricks using telekinesis and people traveling using portals from one side of the city to the other. It is common understanding that the most knowledged and smart people of `Alcera` are born in `Cronis`.
 

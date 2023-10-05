@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: /images/cronis.jpg
+      content: https://main--jolly-paletas-34e82f.netlify.app/images/cronis.jpg
 ---
 
 `150k people` `Mostly humans, elves and half-elves` `Main religion: Boccob`

@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: /images/nebury.jpg
+      content: https://main--jolly-paletas-34e82f.netlify.app/images/nebury.jpg
 ---
 
 `420k people` `Mostly humans` `Popular religions: Heironeus, Pelor`

@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: /images/phera.jpg
+      content: https://main--jolly-paletas-34e82f.netlify.app/images/phera.jpg
 ---
 
 `20k people` `Mostly halflings, humans, orcs and dwarfs`

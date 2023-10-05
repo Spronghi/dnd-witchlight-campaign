@@ -1,11 +1,18 @@
 ---
 title: Blore
 description: Small village where the adventure begins
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://main--jolly-paletas-34e82f.netlify.app/images/blore.jpg
 ---
 
 `600 people` `Mostly humans`
 
 Blore is a small village that sustains itself mostly from agriculture and subsistence farming. Villagers are mostly humans and is a place where travelers are well seen, especially if they spend money into taverns or buy foods from villagers.
+
+![Blore](/images/blore.jpg)
 
 ## The Belly Buster
 

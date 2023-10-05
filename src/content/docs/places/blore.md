@@ -1,11 +1,20 @@
 ---
 title: Blore
 description: Small village where the adventure begins
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://main--jolly-paletas-34e82f.netlify.app/images/blore.jpg
 ---
 
 `600 people` `Mostly humans`
 
-Blore is a small village known mostly because it is one of the places visited by the `Witchlight Carnival` for two days every `8 years` (it will take place around the `25th of September`). The village sustains itself mostly from agriculture and keeping, but, during the carnival, a lot of tents are constructed because of the visitors. The population usually triple during the carnival, and you can find tents for around 10gp for two nights. The influence of the carnival is barely visible in terms of magic.
+Blore is a small village known mostly because it is one of the places visited by the `Witchlight Carnival` for two days every `8 years` (it will take place around the `25th of September`). The village sustains itself mostly from agriculture and keeping, but, during the carnival, a lot of tents are constructed because of the visitors.
+
+![Blore](/images/blore.jpg)
+
+The population usually triple during the carnival, and you can find tents for around 10gp for two nights. The influence of the carnival is barely visible in terms of magic.
 
 :::tip[Special infos]
 While villagers earn a lot of money from the carnival, it is forbidden for the villagers to visit it, since, every time, weird things happen -- children missing, people having hallucinations for days, people abandoning the village, etc..

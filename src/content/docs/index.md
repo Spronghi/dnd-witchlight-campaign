@@ -5,7 +5,7 @@ tableOfContents: false
 
 This is an adventure based on `The Wild Beyond the Witchlight`. Based on how the adventure will go and the participation of the party we'll decide to take over the Witchlight or not.
 
-![A rocketship in space](../../assets/book.jpg)
+![A dnd book](../../assets/book.jpg)
 
 Everything starts when [Alcide](/npc/alcide), well known noble of a village named [Blore](/places/blore), decides to group workers to [drain a lake](/procedures/drain-a-lake) in front of a tower owned by his family for generations. This lake contains ancient ruins in the middle, and has a legend around it that tells about the location of magic relics in the depths of the lake.
 

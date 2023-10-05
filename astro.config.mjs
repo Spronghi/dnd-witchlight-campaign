@@ -31,6 +31,16 @@ export default defineConfig({
       social,
       logo: { src: "./src/assets/logo.png" },
       sidebar,
+      head: [
+        {
+          // <meta property="og:image" content="https://kvkirthy.github.io/code-samples/assets/dino.png">
+          tag: 'meta',
+          attrs: {
+            property: "og:image",
+            content: 'https://main--starlit-squirrel-f8016c.netlify.app/preview.jpg'
+          },
+        },
+      ],
     }),
   ],
 });

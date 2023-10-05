@@ -2,7 +2,7 @@
 title: Nebury
 ---
 
-`320k people` `Mostly humans` `Popular religions: Heironeus, Pelor`
+`420k people` `Mostly humans` `Popular religions: Heironeus, Pelor`
 
 `Nebury` is the biggest city in the continent of `Alcera`.
 

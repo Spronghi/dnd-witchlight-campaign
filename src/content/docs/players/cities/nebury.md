@@ -14,4 +14,4 @@ The biggest cult of the city, leaded by `Priestess Agatha`, who rarely make publ
 
 ## The Church of Heironeus
 
-The second biggest cult, known to have the best fighters and protectors of the city. It is a known that the cult made some deals with the `Church of Pelor` in order to finish a `civil war` happened 40 years ago against the two cults.
+The second biggest cult, known to have the best fighters and protectors of the city. It is known that the cult made a pact with the `Church of Pelor` in order to end a `civil war` happened 40 years ago against the two cults, both cults, indeed, share the same duty of `Justice` and `Light`

@@ -13,18 +13,22 @@ const sidebar = [
   { label: "Resources", link: "/resources" },
   { label: "Players", collapsed: true, autogenerate: { directory: "players" } },
 ].filter((s) => {
-  if (process.env.MODE === "players" && s.label === "For Players") {
+  if (process.env.MODE === "players" && s.label === "Players") {
     return false;
   }
 
   return true;
 });
 
+
+const title = process.env.MODE === "players" ? "Witchlight Adventure" : "DM Witchlight Adventure"
+const social = process.env.MODE === "players" ? {} : { github: "https://github.com/Spronghi/dnd-witchlight-campaign" }
+
 export default defineConfig({
   integrations: [
     starlight({
-      title: "Witchlight Adventure",
-      social: { github: "https://github.com/Spronghi/dnd-witchlight-campaign" },
+      title,
+      social,
       logo: { src: "./src/assets/logo.png" },
       sidebar,
     }),

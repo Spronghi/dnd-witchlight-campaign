@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: https://main--jolly-paletas-34e82f.netlify.app/images/blore.jpg
+      content: https://jolly-paletas-34e82f.netlify.app/images/blore.jpg
 ---
 
 `600 people` `Mostly humans`
